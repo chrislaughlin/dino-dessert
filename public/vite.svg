@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 410 404">
+  <defs>
+    <linearGradient id="vite-grad" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#42d392" offset="0" />
+      <stop stop-color="#647eff" offset="1" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#vite-grad)" d="M399 40 230 388a14 14 0 0 1-25 0L11 40A14 14 0 0 1 23 20h364a14 14 0 0 1 12 20z" />
+  <path fill="#fff" d="m188 144 28-79 28 79h83l-67 47 26 80-70-52-70 52 27-80-68-47h83z" />
+</svg>

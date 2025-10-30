@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700&display=swap');
+
+:root {
+  font-family: 'Baloo 2', 'Comic Neue', 'Segoe UI', sans-serif;
+  color: #2f1c6a;
+  background: radial-gradient(circle at top, #ffd4ec 0%, #fef3d4 40%, #c7e9ff 100%);
+  min-height: 100%;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+}
+
+#root {
+  min-height: 100vh;
+}
